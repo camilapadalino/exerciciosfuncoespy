@@ -8,7 +8,7 @@ def ler_numero(numero):
     print(f'O número inserido foi: {numero}')
 
 def tabuada(numero):
-    for i in range (numero, 100, numero):
+    for i in range (numero, 101, numero):
         print(f' Tabuada do {numero}: {i}')
 
 
